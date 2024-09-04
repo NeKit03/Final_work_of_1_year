@@ -1,16 +1,0 @@
---2024-09-04 15:40:01--  https://discord.com/api/download?platform=linux
-Распознаётся discord.com (discord.com)… 162.159.136.232, 162.159.128.233, 162.159.137.232, ...
-Подключение к discord.com (discord.com)|162.159.136.232|:443... соединение установлено.
-HTTP-запрос отправлен. Ожидание ответа… 302 Found
-Адрес: https://dl.discordapp.net/apps/linux/0.0.66/discord-0.0.66.deb [переход]
---2024-09-04 15:40:01--  https://dl.discordapp.net/apps/linux/0.0.66/discord-0.0.66.deb
-Распознаётся dl.discordapp.net (dl.discordapp.net)… 188.114.99.224, 188.114.98.224, 2a06:98c1:3122:e000::, ...
-Подключение к dl.discordapp.net (dl.discordapp.net)|188.114.99.224|:443... соединение установлено.
-HTTP-запрос отправлен. Ожидание ответа… 200 OK
-Длина: 103057530 (98M) [application/vnd.debian.binary-package]
-Сохранение в: ‘download?platform=linux’
-
-download?platform=l   0%[                    ]       0  --.-KB/s               download?platform=l   0%[                    ]  62,05K   268KB/s               download?platform=l   0%[                    ] 430,03K   934KB/s               download?platform=l   1%[                    ]   1,78M  2,69MB/s               download?platform=l   2%[                    ]   2,92M  3,22MB/s               download?platform=l   9%[>                   ]   8,87M  7,40MB/s               download?platform=l  13%[=>                  ]  13,29M  9,50MB/s               download?platform=l  15%[==>                 ]  15,72M  9,22MB/s               download?platform=l  18%[==>                 ]  18,65M  9,57MB/s               download?platform=l  24%[===>                ]  24,00M  11,1MB/s               download?platform=l  29%[====>               ]  29,28M  12,0MB/s               download?platform=l  35%[======>             ]  34,62M  12,7MB/s               download?platform=l  40%[=======>            ]  39,37M  13,2MB/s               download?platform=l  46%[========>           ]  46,05M  14,0MB/s    ост 4s     download?platform=l  52%[=========>          ]  51,86M  14,8MB/s    ост 4s     download?platform=l  59%[==========>         ]  58,20M  15,7MB/s    ост 4s     download?platform=l  64%[===========>        ]  63,72M  17,4MB/s    ост 4s     download?platform=l  67%[============>       ]  66,14M  18,0MB/s    ост 4s     download?platform=l  72%[=============>      ]  71,54M  19,2MB/s    ост 2s     download?platform=l  78%[==============>     ]  76,94M  18,8MB/s    ост 2s     download?platform=l  82%[===============>    ]  81,53M  19,1MB/s    ост 2s     download?platform=l  88%[================>   ]  87,22M  20,6MB/s    ост 2s     download?platform=l  91%[=================>  ]  89,55M  20,7MB/s    ост 2s     download?platform=l  93%[=================>  ]  91,97M  19,6MB/s    ост 0s     download?platform=l  99%[==================> ]  97,62M  19,3MB/s    ост 0s     download?platform=l 100%[===================>]  98,28M  19,4MB/s    за 5,9s    
-
-2024-09-04 15:40:11 (16,6 MB/s) - ‘download?platform=linux’ сохранён [103057530/103057530]
-
